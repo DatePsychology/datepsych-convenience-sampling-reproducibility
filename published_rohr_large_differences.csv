@@ -1,0 +1,5 @@
+benchmark,survey_type,large_diff_percent,magnitude_diff_percent,source_location
+Microcensus,Probability,8.7,8.1,"Bivariate Comparison, Figure 3 discussion; Table C.12"
+Microcensus,Nonprobability,15.4,14.3,"Bivariate Comparison, Figure 3 discussion; Table C.12"
+GGSS,Probability,3.9,3.9,"Bivariate Comparison, Figure 4 discussion; Table C.13"
+GGSS,Nonprobability,7.5,6.6,"Bivariate Comparison, Figure 4 discussion; Table C.13"

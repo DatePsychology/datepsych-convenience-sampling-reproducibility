@@ -1,0 +1,5 @@
+comparison,value,interpretation
+online_count_difference,3,"39 vs 36: distinct printed denominators, underlying author definitions unknown"
+online_subcategory_sum,40,18 + 9 + 8 + 5 = 40 assignments; categories may overlap
+student_online_other_sum,98,49 + 36 + 13 = 98 assignments; categories may overlap
+claimed_number_of_papers,90,90 papers claimed; exact selected bibliography/codebook unavailable

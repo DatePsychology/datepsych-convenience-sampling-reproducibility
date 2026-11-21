@@ -1,0 +1,18 @@
+claim_id,article_claim,footnote_ids,source_section,verification,qualification
+A01,Alexander self-reports primarily recruiting via YouTube Twitter/X and website,[1],Opening paragraph,Verified against source text,Self-report only; not independently measured respondent origin
+A02,"Alexander reports 49/90 student, 36/90 online, then says 18/39 social-media",[1],90-paper review,Verified against source text,The underlying 90-row codebook is unavailable; overlapping categories permitted
+A03,"Four online subcategories are 18, 9, 8, 5",[1],Sampling analysis,Arithmetic directly checkable,Counts sum to 40; not proof of 40 unique online samples
+A04,Jager provides an example where selection affects associations and subgroup differences,[2],Poor Generalizability Leads to Estimate Bias: An Illustration,Verified full text,"Example is hypothetical, not a direct empirical estimate"
+A05,92.5% of classifiable studies used convenience sampling in five journals,[2],Probability Sampling Versus Convenience Sampling,Verified full text,Narrow 2007-11 five-journal review; not >95% of all sciences
+A06,Rohr compares three probability and five nonprobability German surveys,[3],"Methods, surveys",Verified full text,"Nonprobability sources are panels, not creator followers"
+A07,Rohr bivariate percentages displayed in article Figure 1,[3],Figure 3 and Figure 4 results,Verified and reproduced from 15 printed percentages,No Diff is a test classification; not equivalence or effect size
+A08,Rohr large-difference averages 8.7/15.4 and 3.9/7.5,[3],Bivariate Comparison; Figures 3-4 results,Verified and transcribed,Weighted across survey types; no sampling-error CI in article chart
+A09,"Most large differences concerned magnitude, not correlation sign",[3],Figure 3/4 discussion,Verified 8.1/14.3 and 3.9/6.6,Remainders are not automatically exact sign-flip rates because published categories can be rounded
+A10,Rohr examines 24 multivariate regression models,[3],Abstract and Methods,Verified full text,Repo does not recompute original regression models
+A11,Gosling compares web versus traditional personality samples,[4],Primary study overview,Source metadata/literature synthesis,Not reanalysis of underlying observations
+A12,Mullinix and Coppock primarily concern experiments,[5];[6],Primary study methods,Source metadata and literature synthesis,Not direct tests of observational sociosexuality correlations
+A13,Topical self-selection may vary across online recruitment mechanisms,[7],Comparative survey study,Literature synthesis,Not a numerical correction for Alexander’s surveys
+A14,Facebook ad design can affect response-quality indicators,[8],Abstract and Results,Literature synthesis,Platform-specific and study-specific
+A15,Donzowa et al. find 20/32 models with no significant ad-image effect,[9],Abstract and Results,Verified full text,No significant effect does not prove equivalence
+A16,2026 journals adopted reporting requirements on online sexuality recruitment and data screening,[10],Editorial and journal guidance,Publisher verified,Published after Alexander (2024)
+A17,Schmitt shows cross-cultural sex difference in sociosexuality across 48 nations,[11],Abstract,Publisher verified,Samples not nationally representative

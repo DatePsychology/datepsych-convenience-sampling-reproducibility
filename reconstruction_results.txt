@@ -1,0 +1,31 @@
+CONVENIENCE-SAMPLING ARTICLE — REPRODUCTION FROM PRINTED AGGREGATES
+Sources: Rohr, Silber & Felderer (2025), DOI 10.1177/00811750241280963;
+         Alexander (2024), original DatePsychology essay.
+
+FIGURE 1: PUBLISHED "NO DIFF" CORRELATION CLASSIFICATION
+This is NOT equivalence, a bias estimate, or an independent analysis of respondent data.
+  Microcensus | Probability    | n=3 surveys | min=60.8% max=87.6% (arithmetic mean=73.63%)
+  Microcensus | Nonprobability | n=5 surveys | min=34.5% max=85.5% (arithmetic mean=66.14%)
+  GGSS        | Probability    | n=2 surveys | min=79.0% max=83.6% (arithmetic mean=81.30%)
+  GGSS        | Nonprobability | n=5 surveys | min=56.6% max=91.3% (arithmetic mean=75.76%)
+
+LARGE-DIFFERENCE SUMMARY (PUBLISHED GROUP AVERAGES)
+Large Diff required statistical criteria and a sufficiently large magnitude or sign difference.
+  Microcensus | Probability    | large=8.7%; magnitude=8.1%
+  Microcensus | Nonprobability | large=15.4%; magnitude=14.3%
+  GGSS        | Probability    | large=3.9%; magnitude=3.9%
+  GGSS        | Nonprobability | large=7.5%; magnitude=6.6%
+
+ALEXANDER PAPER COUNT — ARITHMETIC ONLY
+  Online totals printed: 36 and 39 (difference 3).
+  Online subcategory assignments: 18+9+8+5=40.
+  Student + online + other category assignments: 49+36+13=98; paper denominator=90.
+  NOTE: Category sums above are NOT counts of unique papers. Overlap is possible.
+  We do not know which exact 90 papers or original category-coding decisions were used.
+
+LIMITATIONS
+  * No individual respondent-level data or original statistical test outcomes included.
+  * Counts of pairs per survey can be below the maximum because variable coverage varies.
+  * Significance-based No Diff percentages depend on precision, weighting and adjustment.
+  * Panel surveys are not the same as creator-recruited sexuality surveys.
+  * This exercise does not test bias in DatePsychology survey estimates.

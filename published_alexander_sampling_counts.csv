@@ -1,0 +1,10 @@
+claim_id,count,printed_description,source_location,comparability_note
+paper_total,90,papers/samples examined,Sampling analysis,Study selection and independent coding table not supplied
+student,49,student convenience samples,Sampling analysis,May overlap with online surveys
+online_first,36,used online survey methods,Sampling analysis,The article later says 39
+online_later,39,denominator in 18 of the 39,Sampling analysis,Not reconciled with 36
+online_social,18,specified social-media websites by name,Sampling analysis,Subcategories may not be exclusive
+online_unspecified,9,online survey; venue unspecified,Sampling analysis,Subcategories may not be exclusive
+online_mturk,8,Amazon MTurk,Sampling analysis,Subcategories may not be exclusive
+online_other,5,other survey platforms,Sampling analysis,Subcategories may not be exclusive
+remaining,13,remaining other recruitment categories (4+2+2+2+2+1),Sampling analysis,Not demonstrated disjoint from student/online
