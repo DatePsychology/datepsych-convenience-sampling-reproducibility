@@ -83,6 +83,4 @@ The article deliberately gives this peripheral audit only limited emphasis. The 
 
 The complete 11-source list and links appear in [`source_reference_map.csv`](source_reference_map.csv); precise sourcing for the numerical files appears in [`SOURCE_AUDIT.md`](SOURCE_AUDIT.md).
 
-## Companion article
-
 **Rights and data:** This repository includes only independently written code, a newly generated figure, one copy of the article's original figure, and short transcriptions of publicly reported summary numbers. It does not redistribute original research PDFs, copyrighted source texts, or respondent records. Citations and methodological interpretations do not confer rights over the source publications.
